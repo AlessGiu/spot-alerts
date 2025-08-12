@@ -1,0 +1,6 @@
+tradingview-ta==3.3.0
+ccxt==4.3.84
+pandas==2.2.2
+pandas-ta==0.3.14b0
+requests==2.32.3
+python-dotenv==1.0.1
